@@ -6,11 +6,11 @@ function Products () {
             <div>
                 <div className="lg:flex justify-between pt-10 space-y-14 lg:space-y-0">
                 <div className="lg:w-[22%] shadow-2xl p-3 rounded-lg border-2">
-                    <img className="rounded-xl" src="../src/assets/p1.png" alt="" />
+                    <img className="rounded-xl" src="./public/assets/p1.png" alt="" />
                     <h1 className="text-center font-semibold text-xl py-3">Bore Cap</h1>
                 </div>
                 <div className="lg:w-[22%] shadow-2xl p-3 rounded-lg border-2">
-                    <img className="rounded-xl" src="../src/assets/p2.jpg" alt="" />
+                    <img className="rounded-xl" src="../public/assets/p2.jpg" alt="" />
                     <h1 className="text-center font-semibold text-xl py-3">Bore Clamp</h1>
                 </div>
                 <div className="lg:w-[22%] shadow-2xl p-3 rounded-lg border-2">
