@@ -11,7 +11,7 @@ function About(){
                     SSS Engineering Works, established in 2016, is a trusted manufacturer of high-quality engineering products. Driven by precision, innovation, and a commitment to excellence, we specialize in delivering reliable solutions tailored to meet the diverse needs of our clients. Utilizing advanced technology and adhering to stringent quality standards, we ensure every product reflects superior craftsmanship and durability. At SSS Engineering Works, we are dedicated to fostering progress and building lasting relationships through unmatched quality and service.
                     </p>
                 </div>
-                <div className="lg:w-[50%] flex justify-center items-center pb-16"><img className="h-[80%] rounded-3xl" src="../src/assets/test.jpg" alt="" /></div>
+                <div className="lg:w-[50%] flex justify-center items-center pb-16"><img className="h-[80%] rounded-3xl" src="./src/assets/test.jpg" alt="" /></div>
             </div>
         </div>
     );
