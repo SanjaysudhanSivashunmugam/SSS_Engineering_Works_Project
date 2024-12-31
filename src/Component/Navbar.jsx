@@ -59,7 +59,7 @@ function Navbar() {
 
                 {/* Get Quotes Button */}
                 <button className="hidden lg:flex px-4 py-2 bg-[#FFC107] text-black font-semibold rounded hover:bg-[#FFD54F] transition">
-                    Get Quotes
+                <a href="https://wa.me/918925212821" > Get Quotes</a>
                 </button>
 
                 {/* Mobile Navigation Toggle */}
@@ -130,7 +130,7 @@ function Navbar() {
                     </ul>
                     <div className="flex justify-center items-center pb-6">
                     <button className="px-4 py-2 bg-[#FFC107] transition text-black font-semibold rounded hover:bg-[#FFD54F] ">
-                    Get Quotes
+                    <a href="https://wa.me/918925212821" > Get Quotes</a>
                     </button>
                     </div>
                     
