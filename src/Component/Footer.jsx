@@ -23,12 +23,12 @@ function Footer() {
                             <li className="cursor-pointer hover:text-[#FFC107]"><Link to="cu" smooth={true} offset={-70} duration={500}>Contact Us</Link></li>
                         </ul>
                     </div>
-                    <div className="w-[20%]">
+                    <div className="lg:w-[20%]">
                     <h1 className="font-bold text-xl pb-3">Social</h1>
                         <ul className="space-y-3">
                             <li className="cursor-pointer hover:text-[#FFC107]"><a href="">Facebook</a></li>
                             <li className="cursor-pointer hover:text-[#FFC107]"><a href="">Instagram</a></li>
-                            <li className="cursor-pointer hover:text-[#FFC107]"><a href="">India Mart</a></li>
+                            <li className="cursor-pointer hover:text-[#FFC107] "><a href="">India Mart</a></li>
                         </ul>
                     </div>
                 </div>
