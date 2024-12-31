@@ -34,7 +34,7 @@ function Footer() {
                 </div>
             </div>
             <div>
-                <div className="text-center border-t py-4 text-sm">
+                <div className="text-center border-t py-4 px-4 text-sm">
                     All Rights Reserved by SSS Engineering Works | Designed and Developed By <a href="https://www.linkedin.com/in/sanjaysudhan-sivashunmugam-a5a901255/" className="hover:underline text-[#FFC107]">Sanjaysudhan S</a>
                 </div>
             </div>
