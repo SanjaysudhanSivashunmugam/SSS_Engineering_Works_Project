@@ -29,6 +29,7 @@ function Footer() {
                             <li className="cursor-pointer hover:text-[#FFC107]"><a href="">Facebook</a></li>
                             <li className="cursor-pointer hover:text-[#FFC107]"><a href="">Instagram</a></li>
                             <li className="cursor-pointer hover:text-[#FFC107] "><a href="">India Mart</a></li>
+                            <li className="cursor-pointer hover:text-[#FFC107] "><a href="https://wa.me/918925212821" >WhatsApp</a></li>
                         </ul>
                     </div>
                 </div>
